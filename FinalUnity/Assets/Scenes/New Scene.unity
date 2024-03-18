@@ -123,7 +123,19 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+<<<<<<< Updated upstream
+<<<<<<<< Updated upstream:FinalUnity/Assets/Scenes/New Scene.unity
 --- !u!1 &503134241
+========
+--- !u!1 &287198953
+>>>>>>>> Stashed changes:FinalUnity/Assets/Scenes/Anthony.unity
+=======
+<<<<<<<< HEAD:FinalUnity/Assets/Scenes/Anthony.unity
+--- !u!1 &287198953
+========
+--- !u!1 &503134241
+>>>>>>>> 41a60a2eb04cde4aa6f3a1ad897d9a157a60d043:FinalUnity/Assets/Scenes/New Scene.unity
+>>>>>>> Stashed changes
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -131,8 +143,23 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< Updated upstream
+<<<<<<<< Updated upstream:FinalUnity/Assets/Scenes/New Scene.unity
   - component: {fileID: 503134243}
   - component: {fileID: 503134242}
+========
+  - component: {fileID: 287198955}
+  - component: {fileID: 287198954}
+>>>>>>>> Stashed changes:FinalUnity/Assets/Scenes/Anthony.unity
+=======
+<<<<<<<< HEAD:FinalUnity/Assets/Scenes/Anthony.unity
+  - component: {fileID: 287198955}
+  - component: {fileID: 287198954}
+========
+  - component: {fileID: 503134243}
+  - component: {fileID: 503134242}
+>>>>>>>> 41a60a2eb04cde4aa6f3a1ad897d9a157a60d043:FinalUnity/Assets/Scenes/New Scene.unity
+>>>>>>> Stashed changes
   m_Layer: 0
   m_Name: Directional Light
   m_TagString: Untagged
@@ -140,13 +167,37 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< Updated upstream
+<<<<<<<< Updated upstream:FinalUnity/Assets/Scenes/New Scene.unity
 --- !u!108 &503134242
+========
+--- !u!108 &287198954
+>>>>>>>> Stashed changes:FinalUnity/Assets/Scenes/Anthony.unity
+=======
+<<<<<<<< HEAD:FinalUnity/Assets/Scenes/Anthony.unity
+--- !u!108 &287198954
+========
+--- !u!108 &503134242
+>>>>>>>> 41a60a2eb04cde4aa6f3a1ad897d9a157a60d043:FinalUnity/Assets/Scenes/New Scene.unity
+>>>>>>> Stashed changes
 Light:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream
+<<<<<<<< Updated upstream:FinalUnity/Assets/Scenes/New Scene.unity
   m_GameObject: {fileID: 503134241}
+========
+  m_GameObject: {fileID: 287198953}
+>>>>>>>> Stashed changes:FinalUnity/Assets/Scenes/Anthony.unity
+=======
+<<<<<<<< HEAD:FinalUnity/Assets/Scenes/Anthony.unity
+  m_GameObject: {fileID: 287198953}
+========
+  m_GameObject: {fileID: 503134241}
+>>>>>>>> 41a60a2eb04cde4aa6f3a1ad897d9a157a60d043:FinalUnity/Assets/Scenes/New Scene.unity
+>>>>>>> Stashed changes
   m_Enabled: 1
   serializedVersion: 10
   m_Type: 1
@@ -202,13 +253,37 @@ Light:
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
   m_ShadowAngle: 0
+<<<<<<< Updated upstream
+<<<<<<<< Updated upstream:FinalUnity/Assets/Scenes/New Scene.unity
 --- !u!4 &503134243
+========
+--- !u!4 &287198955
+>>>>>>>> Stashed changes:FinalUnity/Assets/Scenes/Anthony.unity
+=======
+<<<<<<<< HEAD:FinalUnity/Assets/Scenes/Anthony.unity
+--- !u!4 &287198955
+========
+--- !u!4 &503134243
+>>>>>>>> 41a60a2eb04cde4aa6f3a1ad897d9a157a60d043:FinalUnity/Assets/Scenes/New Scene.unity
+>>>>>>> Stashed changes
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream
+<<<<<<<< Updated upstream:FinalUnity/Assets/Scenes/New Scene.unity
   m_GameObject: {fileID: 503134241}
+========
+  m_GameObject: {fileID: 287198953}
+>>>>>>>> Stashed changes:FinalUnity/Assets/Scenes/Anthony.unity
+=======
+<<<<<<<< HEAD:FinalUnity/Assets/Scenes/Anthony.unity
+  m_GameObject: {fileID: 287198953}
+========
+  m_GameObject: {fileID: 503134241}
+>>>>>>>> 41a60a2eb04cde4aa6f3a1ad897d9a157a60d043:FinalUnity/Assets/Scenes/New Scene.unity
+>>>>>>> Stashed changes
   serializedVersion: 2
   m_LocalRotation: {x: 0.40821788, y: -0.23456968, z: 0.10938163, w: 0.8754261}
   m_LocalPosition: {x: 0, y: 3, z: 0}
@@ -217,7 +292,19 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
+<<<<<<< Updated upstream
+<<<<<<<< Updated upstream:FinalUnity/Assets/Scenes/New Scene.unity
 --- !u!1 &611670056
+========
+--- !u!1 &716934958
+>>>>>>>> Stashed changes:FinalUnity/Assets/Scenes/Anthony.unity
+=======
+<<<<<<<< HEAD:FinalUnity/Assets/Scenes/Anthony.unity
+--- !u!1 &716934958
+========
+--- !u!1 &611670056
+>>>>>>>> 41a60a2eb04cde4aa6f3a1ad897d9a157a60d043:FinalUnity/Assets/Scenes/New Scene.unity
+>>>>>>> Stashed changes
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -225,9 +312,27 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< Updated upstream
+<<<<<<<< Updated upstream:FinalUnity/Assets/Scenes/New Scene.unity
   - component: {fileID: 611670059}
   - component: {fileID: 611670058}
   - component: {fileID: 611670057}
+========
+  - component: {fileID: 716934961}
+  - component: {fileID: 716934960}
+  - component: {fileID: 716934959}
+>>>>>>>> Stashed changes:FinalUnity/Assets/Scenes/Anthony.unity
+=======
+<<<<<<<< HEAD:FinalUnity/Assets/Scenes/Anthony.unity
+  - component: {fileID: 716934961}
+  - component: {fileID: 716934960}
+  - component: {fileID: 716934959}
+========
+  - component: {fileID: 611670059}
+  - component: {fileID: 611670058}
+  - component: {fileID: 611670057}
+>>>>>>>> 41a60a2eb04cde4aa6f3a1ad897d9a157a60d043:FinalUnity/Assets/Scenes/New Scene.unity
+>>>>>>> Stashed changes
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -235,21 +340,63 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< Updated upstream
+<<<<<<<< Updated upstream:FinalUnity/Assets/Scenes/New Scene.unity
 --- !u!81 &611670057
+========
+--- !u!81 &716934959
+>>>>>>>> Stashed changes:FinalUnity/Assets/Scenes/Anthony.unity
+=======
+<<<<<<<< HEAD:FinalUnity/Assets/Scenes/Anthony.unity
+--- !u!81 &716934959
+========
+--- !u!81 &611670057
+>>>>>>>> 41a60a2eb04cde4aa6f3a1ad897d9a157a60d043:FinalUnity/Assets/Scenes/New Scene.unity
+>>>>>>> Stashed changes
 AudioListener:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream
+<<<<<<<< Updated upstream:FinalUnity/Assets/Scenes/New Scene.unity
   m_GameObject: {fileID: 611670056}
   m_Enabled: 1
 --- !u!20 &611670058
+========
+  m_GameObject: {fileID: 716934958}
+  m_Enabled: 1
+--- !u!20 &716934960
+>>>>>>>> Stashed changes:FinalUnity/Assets/Scenes/Anthony.unity
+=======
+<<<<<<<< HEAD:FinalUnity/Assets/Scenes/Anthony.unity
+  m_GameObject: {fileID: 716934958}
+  m_Enabled: 1
+--- !u!20 &716934960
+========
+  m_GameObject: {fileID: 611670056}
+  m_Enabled: 1
+--- !u!20 &611670058
+>>>>>>>> 41a60a2eb04cde4aa6f3a1ad897d9a157a60d043:FinalUnity/Assets/Scenes/New Scene.unity
+>>>>>>> Stashed changes
 Camera:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream
+<<<<<<<< Updated upstream:FinalUnity/Assets/Scenes/New Scene.unity
   m_GameObject: {fileID: 611670056}
+========
+  m_GameObject: {fileID: 716934958}
+>>>>>>>> Stashed changes:FinalUnity/Assets/Scenes/Anthony.unity
+=======
+<<<<<<<< HEAD:FinalUnity/Assets/Scenes/Anthony.unity
+  m_GameObject: {fileID: 716934958}
+========
+  m_GameObject: {fileID: 611670056}
+>>>>>>>> 41a60a2eb04cde4aa6f3a1ad897d9a157a60d043:FinalUnity/Assets/Scenes/New Scene.unity
+>>>>>>> Stashed changes
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 1
@@ -294,13 +441,37 @@ Camera:
   m_OcclusionCulling: 1
   m_StereoConvergence: 10
   m_StereoSeparation: 0.022
+<<<<<<< Updated upstream
+<<<<<<<< Updated upstream:FinalUnity/Assets/Scenes/New Scene.unity
 --- !u!4 &611670059
+========
+--- !u!4 &716934961
+>>>>>>>> Stashed changes:FinalUnity/Assets/Scenes/Anthony.unity
+=======
+<<<<<<<< HEAD:FinalUnity/Assets/Scenes/Anthony.unity
+--- !u!4 &716934961
+========
+--- !u!4 &611670059
+>>>>>>>> 41a60a2eb04cde4aa6f3a1ad897d9a157a60d043:FinalUnity/Assets/Scenes/New Scene.unity
+>>>>>>> Stashed changes
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream
+<<<<<<<< Updated upstream:FinalUnity/Assets/Scenes/New Scene.unity
   m_GameObject: {fileID: 611670056}
+========
+  m_GameObject: {fileID: 716934958}
+>>>>>>>> Stashed changes:FinalUnity/Assets/Scenes/Anthony.unity
+=======
+<<<<<<<< HEAD:FinalUnity/Assets/Scenes/Anthony.unity
+  m_GameObject: {fileID: 716934958}
+========
+  m_GameObject: {fileID: 611670056}
+>>>>>>>> 41a60a2eb04cde4aa6f3a1ad897d9a157a60d043:FinalUnity/Assets/Scenes/New Scene.unity
+>>>>>>> Stashed changes
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 1, z: -10}
@@ -313,5 +484,20 @@ Transform:
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
+<<<<<<< Updated upstream
+<<<<<<<< Updated upstream:FinalUnity/Assets/Scenes/New Scene.unity
   - {fileID: 611670059}
   - {fileID: 503134243}
+========
+  - {fileID: 716934961}
+  - {fileID: 287198955}
+>>>>>>>> Stashed changes:FinalUnity/Assets/Scenes/Anthony.unity
+=======
+<<<<<<<< HEAD:FinalUnity/Assets/Scenes/Anthony.unity
+  - {fileID: 716934961}
+  - {fileID: 287198955}
+========
+  - {fileID: 611670059}
+  - {fileID: 503134243}
+>>>>>>>> 41a60a2eb04cde4aa6f3a1ad897d9a157a60d043:FinalUnity/Assets/Scenes/New Scene.unity
+>>>>>>> Stashed changes
