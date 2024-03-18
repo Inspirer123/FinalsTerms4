@@ -3,7 +3,17 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - cover
+  - heal100
+  - Bridge
+  - ItemPickup
+  - LastDoor
+  - Block
+  - Air
+  - Steam
+  - Enemy1
+  - WaterWheel
   layers:
   - Default
   - TransparentFX
@@ -11,7 +21,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - damageenemy
   - 
   - 
   - 
