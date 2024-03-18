@@ -1,1 +1,5 @@
-sceneSetups: []
+sceneSetups:
+- path: Assets/Scenes/Greyson Level2.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
