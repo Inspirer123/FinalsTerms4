@@ -574,6 +574,106 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 6.0429187, y: 10.781117, z: 12.772532}
   m_Center: {x: -0.0000023841858, y: 0.00000667572, z: 6.3862653}
+--- !u!1001 &657841286
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 490395331594589247, guid: 89eed4c0efda2f74680f930a51e5062c,
+        type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"FPSCam","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"playerSpeed","value":{"$content":10.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"PlayerHealth","value":{"$content":100,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"PlayerHealthUI","value":null,"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"attackPoint","value":{"$content":1,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"MeleeDamage","value":{"$content":25,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 490395331594589247, guid: 89eed4c0efda2f74680f930a51e5062c,
+        type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 490395331594589247, guid: 89eed4c0efda2f74680f930a51e5062c,
+        type: 3}
+      propertyPath: _data._objectReferences.Array.data[1]
+      value: 
+      objectReference: {fileID: 657841287}
+    - target: {fileID: 1365621856157987218, guid: 89eed4c0efda2f74680f930a51e5062c,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 8a4a184a24e6bc14188dc37b793819f9, type: 2}
+    - target: {fileID: 4278815706344374608, guid: 89eed4c0efda2f74680f930a51e5062c,
+        type: 3}
+      propertyPath: m_Name
+      value: PlayerControllerAnthony
+      objectReference: {fileID: 0}
+    - target: {fileID: 8829227162063913231, guid: 89eed4c0efda2f74680f930a51e5062c,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 18.018621
+      objectReference: {fileID: 0}
+    - target: {fileID: 8829227162063913231, guid: 89eed4c0efda2f74680f930a51e5062c,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.83
+      objectReference: {fileID: 0}
+    - target: {fileID: 8829227162063913231, guid: 89eed4c0efda2f74680f930a51e5062c,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 10.1292305
+      objectReference: {fileID: 0}
+    - target: {fileID: 8829227162063913231, guid: 89eed4c0efda2f74680f930a51e5062c,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8829227162063913231, guid: 89eed4c0efda2f74680f930a51e5062c,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8829227162063913231, guid: 89eed4c0efda2f74680f930a51e5062c,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8829227162063913231, guid: 89eed4c0efda2f74680f930a51e5062c,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8829227162063913231, guid: 89eed4c0efda2f74680f930a51e5062c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8829227162063913231, guid: 89eed4c0efda2f74680f930a51e5062c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8829227162063913231, guid: 89eed4c0efda2f74680f930a51e5062c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 89eed4c0efda2f74680f930a51e5062c, type: 3}
+--- !u!1 &657841287 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 9080605826054777923, guid: 89eed4c0efda2f74680f930a51e5062c,
+    type: 3}
+  m_PrefabInstance: {fileID: 657841286}
+  m_PrefabAsset: {fileID: 0}
 --- !u!65 &742707837
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2277,4 +2377,5 @@ SceneRoots:
   m_Roots:
   - {fileID: 431987221}
   - {fileID: 899936944}
+  - {fileID: 657841286}
   - {fileID: 1870115841}
