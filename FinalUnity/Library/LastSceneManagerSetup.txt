@@ -1,9 +1,5 @@
 sceneSetups:
-<<<<<<< HEAD
-- path: Assets/Scenes/Anthony Level4.unity
-=======
-- path: Assets/Scenes/Menu.unity
->>>>>>> dbddae9ad1b20b87c6a8eac01322b67b302ffd89
+- path: Assets/Scenes/RileyLevel.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
