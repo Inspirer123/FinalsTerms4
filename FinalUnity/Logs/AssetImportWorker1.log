@@ -285,3 +285,11 @@ Received Import Request.
 Start importing Assets/Anthony/Materials/Purple.mat using Guid(b7e6d506587ac544fb041d09b9a6dbc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99a50afe00834095ec073580fdd90e0d') in 0.001601 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 9218.799149 seconds.
+  path: Assets/PauseMenu.asset
+  artifactKey: Guid(33e6dec97d780b641b60039b253ea884) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PauseMenu.asset using Guid(33e6dec97d780b641b60039b253ea884) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '873f819f921b690ace0cc45834c72eed') in 0.598310 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1

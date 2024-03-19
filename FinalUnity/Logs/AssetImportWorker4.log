@@ -208,3 +208,19 @@ Received Import Request.
 Start importing Assets/Anthony/Materials/New Material.mat using Guid(8a4a184a24e6bc14188dc37b793819f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44e172ea92627506654cf5e1007e6493') in 0.003666 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 9093.732998 seconds.
+  path: Assets/MenuScript.asset
+  artifactKey: Guid(682139f3a85ba304cacca5d825deeea7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MenuScript.asset using Guid(682139f3a85ba304cacca5d825deeea7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '287deb79be1201897eb16cacbb52b372') in 6.168683 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 12.693524 seconds.
+  path: Assets/Scenes/Anthony Level4.unity
+  artifactKey: Guid(f466fa9a049779f43a20f639c8ed3444) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Anthony Level4.unity using Guid(f466fa9a049779f43a20f639c8ed3444) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5efa918bef2b336f5708ea604d07b599') in 0.001032 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
