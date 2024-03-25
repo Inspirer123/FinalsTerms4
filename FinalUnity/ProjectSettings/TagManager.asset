@@ -14,6 +14,7 @@ TagManager:
   - Steam
   - Enemy1
   - WaterWheel
+  - wall
   layers:
   - Default
   - TransparentFX
