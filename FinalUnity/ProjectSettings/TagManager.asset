@@ -15,6 +15,7 @@ TagManager:
   - Enemy1
   - WaterWheel
   - wall
+  - damage1
   layers:
   - Default
   - TransparentFX
@@ -23,7 +24,7 @@ TagManager:
   - Water
   - UI
   - damageenemy
-  - 
+  - Damagable
   - 
   - 
   - 
