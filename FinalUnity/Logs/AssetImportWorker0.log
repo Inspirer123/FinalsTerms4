@@ -15,7 +15,7 @@ C:/Users/anfal/OneDrive/Documents/GitHub/Unity Term 4 Main Folder/FinalsTerms4/F
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-65460
+59661
 Successfully changed project path to: C:/Users/anfal/OneDrive/Documents/GitHub/Unity Term 4 Main Folder/FinalsTerms4/FinalUnity
 C:/Users/anfal/OneDrive/Documents/GitHub/Unity Term 4 Main Folder/FinalsTerms4/FinalUnity
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -49,11 +49,11 @@ C:/Users/anfal/OneDrive/Documents/GitHub/Unity Term 4 Main Folder/FinalsTerms4/F
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [32704] Host "[IP] 172.16.26.156 [Port] 0 [Flags] 2 [Guid] 110032028 [EditorId] 110032028 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-4VPKU9I) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [29124] Host "[IP] 10.0.0.86 [Port] 0 [Flags] 2 [Guid] 2809635465 [EditorId] 2809635465 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-4VPKU9I) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [32704] Host "[IP] 172.16.26.156 [Port] 0 [Flags] 2 [Guid] 110032028 [EditorId] 110032028 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-4VPKU9I) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [29124] Host "[IP] 10.0.0.86 [Port] 0 [Flags] 2 [Guid] 2809635465 [EditorId] 2809635465 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-4VPKU9I) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
-Refreshing native plugins compatible for Editor in 64.32 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 31.39 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2022.3.7f1 (b16b3b16c7a0)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.7f1/Editor/Data/Resources/UnitySubsystems
@@ -69,44 +69,44 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.7f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.7f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56540
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56956
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.051165 seconds.
-- Loaded All Assemblies, in  0.739 seconds
+Registered in 0.036635 seconds.
+- Loaded All Assemblies, in  0.512 seconds
 Native extension for WindowsStandalone target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.491 seconds
-Domain Reload Profiling: 1218ms
-	BeginReloadAssembly (264ms)
+- Finished resetting the current domain, in  0.271 seconds
+Domain Reload Profiling: 775ms
+	BeginReloadAssembly (169ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (1ms)
-	RebuildCommonClasses (58ms)
-	RebuildNativeTypeToScriptingClass (16ms)
-	initialDomainReloadingComplete (162ms)
-	LoadAllAssembliesAndSetupDomain (228ms)
-		LoadAssemblies (251ms)
+	RebuildCommonClasses (44ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (121ms)
+	LoadAllAssembliesAndSetupDomain (157ms)
+		LoadAssemblies (159ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (224ms)
-			TypeCache.Refresh (221ms)
-				TypeCache.ScanAssembly (196ms)
-			ScanForSourceGeneratedMonoScriptInfo (1ms)
-			ResolveRequiredComponents (1ms)
-	FinalizeReload (491ms)
+		AnalyzeDomain (155ms)
+			TypeCache.Refresh (153ms)
+				TypeCache.ScanAssembly (137ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (272ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (387ms)
+		SetupLoadedEditorAssemblies (210ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (32ms)
-			SetLoadedEditorAssemblies (12ms)
+			InitializePlatformSupportModulesInManaged (16ms)
+			SetLoadedEditorAssemblies (6ms)
 			RefreshPlugins (0ms)
-			BeforeProcessingInitializeOnLoad (3ms)
-			ProcessInitializeOnLoadAttributes (243ms)
-			ProcessInitializeOnLoadMethodAttributes (96ms)
+			BeforeProcessingInitializeOnLoad (2ms)
+			ProcessInitializeOnLoadAttributes (131ms)
+			ProcessInitializeOnLoadMethodAttributes (55ms)
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
@@ -116,8 +116,8 @@ Worker process is ready to serve import requests
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\anfal\OneDrive\Documents\GitHub\Unity Term 4 Main Folder\FinalsTerms4\FinalUnity\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image C:\Users\anfal\OneDrive\Documents\GitHub\Unity Term 4 Main Folder\FinalsTerms4\FinalUnity\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-- Loaded All Assemblies, in  2.874 seconds
-Refreshing native plugins compatible for Editor in 30.52 ms, found 3 plugins.
+- Loaded All Assemblies, in  0.963 seconds
+Refreshing native plugins compatible for Editor in 10.30 ms, found 3 plugins.
 Native extension for WindowsStandalone target not found
 System.Exception: Error! Visual Scripting: couldn't find visual scripting package
   at Unity.VisualScripting.PackageVersionUtility.get_version () [0x00043] in .\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Utilities\PackageVersionUtility.cs:31 
@@ -137,47 +137,47 @@ UnityEngine.Debug:LogError (object)
 UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
 
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  3.680 seconds
-Domain Reload Profiling: 6516ms
-	BeginReloadAssembly (617ms)
+- Finished resetting the current domain, in  1.465 seconds
+Domain Reload Profiling: 2416ms
+	BeginReloadAssembly (196ms)
 		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (7ms)
+		DisableScriptedObjects (5ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (59ms)
-	RebuildCommonClasses (107ms)
-	RebuildNativeTypeToScriptingClass (18ms)
-	initialDomainReloadingComplete (165ms)
-	LoadAllAssembliesAndSetupDomain (1928ms)
-		LoadAssemblies (1868ms)
+		CreateAndSetChildDomain (23ms)
+	RebuildCommonClasses (45ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (75ms)
+	LoadAllAssembliesAndSetupDomain (622ms)
+		LoadAssemblies (533ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (529ms)
-			TypeCache.Refresh (457ms)
-				TypeCache.ScanAssembly (414ms)
-			ScanForSourceGeneratedMonoScriptInfo (47ms)
-			ResolveRequiredComponents (22ms)
-	FinalizeReload (3681ms)
+		AnalyzeDomain (215ms)
+			TypeCache.Refresh (178ms)
+				TypeCache.ScanAssembly (158ms)
+			ScanForSourceGeneratedMonoScriptInfo (23ms)
+			ResolveRequiredComponents (13ms)
+	FinalizeReload (1466ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (3375ms)
+		SetupLoadedEditorAssemblies (1286ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (122ms)
-			SetLoadedEditorAssemblies (5ms)
+			InitializePlatformSupportModulesInManaged (18ms)
+			SetLoadedEditorAssemblies (3ms)
 			RefreshPlugins (0ms)
-			BeforeProcessingInitializeOnLoad (332ms)
-			ProcessInitializeOnLoadAttributes (2706ms)
-			ProcessInitializeOnLoadMethodAttributes (151ms)
-			AfterProcessingInitializeOnLoad (59ms)
+			BeforeProcessingInitializeOnLoad (125ms)
+			ProcessInitializeOnLoadAttributes (1052ms)
+			ProcessInitializeOnLoadMethodAttributes (59ms)
+			AfterProcessingInitializeOnLoad (28ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (16ms)
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.17 seconds
-Refreshing native plugins compatible for Editor in 39.91 ms, found 3 plugins.
+		AwakeInstancesAfterBackupRestoration (14ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 10.15 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 5148 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 77 unused Assets / (422.3 KB). Loaded Objects now: 5612.
-Memory consumption went from 204.2 MB to 203.8 MB.
-Total: 50.490900 ms (FindLiveObjects: 1.062900 ms CreateObjectMapping: 0.434400 ms MarkObjects: 48.410100 ms  DeleteObjects: 0.581400 ms)
+Unloading 77 unused Assets / (423.2 KB). Loaded Objects now: 5612.
+Memory consumption went from 204.4 MB to 204.0 MB.
+Total: 18.328100 ms (FindLiveObjects: 0.782600 ms CreateObjectMapping: 0.301600 ms MarkObjects: 16.776900 ms  DeleteObjects: 0.464600 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
@@ -192,13 +192,37 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
+Received Import Request.
+  Time since last request: 54358.644296 seconds.
+  path: Assets/Anfal/Scripts/TreeHP.asset
+  artifactKey: Guid(ae52702d0021cf0419e31d77da8cecbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anfal/Scripts/TreeHP.asset using Guid(ae52702d0021cf0419e31d77da8cecbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07531c9005531ef5fc6a8fc947545ad3') in 0.391652 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Anfal/Scripts/walldestroy.asset
+  artifactKey: Guid(30c945e450b2a0c43b97f8c53122a764) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anfal/Scripts/walldestroy.asset using Guid(30c945e450b2a0c43b97f8c53122a764) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0532d69525e8f705e7b0274dd9cb2f1b') in 0.013654 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 63.002357 seconds.
+  path: Assets/Anfal/materials/texture/pathway/Materials/DefaultMaterial_Base_color.mat
+  artifactKey: Guid(bc82ec56b35045d418d5970e69af8367) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anfal/materials/texture/pathway/Materials/DefaultMaterial_Base_color.mat using Guid(bc82ec56b35045d418d5970e69af8367) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '209805da3554ecbc717379dc36819ef0') in 0.001878 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
 Received Prepare
-Refreshing native plugins compatible for Editor in 20.56 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 11.97 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 3 unused Assets / (364.1 KB). Loaded Objects now: 5612.
-Memory consumption went from 97.6 MB to 97.3 MB.
-Total: 19.231800 ms (FindLiveObjects: 1.059800 ms CreateObjectMapping: 0.291700 ms MarkObjects: 17.717700 ms  DeleteObjects: 0.161300 ms)
+Unloading 3 unused Assets / (364.1 KB). Loaded Objects now: 5613.
+Memory consumption went from 97.4 MB to 97.0 MB.
+Total: 32.393100 ms (FindLiveObjects: 0.503900 ms CreateObjectMapping: 0.159700 ms MarkObjects: 31.592200 ms  DeleteObjects: 0.135800 ms)
 
 Prepare: number of updated asset objects reloaded= 0
 AssetImportParameters requested are different than current active one (requested -> active):
@@ -215,6 +239,222 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 162.325349 seconds.
+  path: Assets/Anfal/materials/texture/pathway/Materials/DefaultMaterial_Base_color 2.mat
+  artifactKey: Guid(bfe6d1e193cd3c84f8cfb6110fa97811) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anfal/materials/texture/pathway/Materials/DefaultMaterial_Base_color 2.mat using Guid(bfe6d1e193cd3c84f8cfb6110fa97811) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf474b773937ad20f8de8b107305ce08') in 0.007121 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 6.245262 seconds.
+  path: Assets/Anfal/materials/texture/pathway/Materials/begining_Area.mat
+  artifactKey: Guid(bfe6d1e193cd3c84f8cfb6110fa97811) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anfal/materials/texture/pathway/Materials/begining_Area.mat using Guid(bfe6d1e193cd3c84f8cfb6110fa97811) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a307c31575ad22818d5b04920fa7c13') in 0.006359 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 25.074272 seconds.
+  path: Assets/Anfal/materials/texture/pathway/Materials/begining_Area.mat
+  artifactKey: Guid(bfe6d1e193cd3c84f8cfb6110fa97811) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anfal/materials/texture/pathway/Materials/begining_Area.mat using Guid(bfe6d1e193cd3c84f8cfb6110fa97811) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09fbea984d8ae4cf01a213e93bbcd7d3') in 0.004430 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 91.074787 seconds.
+  path: Assets/Anfal/materials/texture/bench
+  artifactKey: Guid(33a98dc4f71208346b3bdaea9b1af5e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anfal/materials/texture/bench using Guid(33a98dc4f71208346b3bdaea9b1af5e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e245ee0050381a7c98aa23223764375') in 0.000747 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 620.940430 seconds.
+  path: Assets/Anfal/materials/texture/ladder/Materials/Unwrapped_STraight_Ladder_DefaultMaterial_BaseColor.mat
+  artifactKey: Guid(dfdce25877adda244b6f8fa72e118348) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anfal/materials/texture/ladder/Materials/Unwrapped_STraight_Ladder_DefaultMaterial_BaseColor.mat using Guid(dfdce25877adda244b6f8fa72e118348) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '997fc5df8a90a684e6a9c12583faf414') in 0.004735 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 81.962909 seconds.
+  path: Assets/Anfal/materials/texture/ladder/Materials/Unwrapped_STraight_Ladder_DefaultMaterial_BaseColor.mat
+  artifactKey: Guid(dfdce25877adda244b6f8fa72e118348) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anfal/materials/texture/ladder/Materials/Unwrapped_STraight_Ladder_DefaultMaterial_BaseColor.mat using Guid(dfdce25877adda244b6f8fa72e118348) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c03cae9e5a991bcecd9c2fb81cf76d98') in 0.004715 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 37.501406 seconds.
+  path: Assets/Anfal/materials/texture/ladder/Unwrapped_STraight_Ladder_DefaultMaterial_Normal.png
+  artifactKey: Guid(f46c2db3f3f06444697ba5be5727f7c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anfal/materials/texture/ladder/Unwrapped_STraight_Ladder_DefaultMaterial_Normal.png using Guid(f46c2db3f3f06444697ba5be5727f7c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bda81439b450c5d4c87d1baffedbd81a') in 0.006241 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 46.067407 seconds.
+  path: Assets/Anfal/materials/texture/ladder/Materials/Unwrapped_STraight_Ladder_DefaultMaterial_BaseColor.mat
+  artifactKey: Guid(dfdce25877adda244b6f8fa72e118348) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anfal/materials/texture/ladder/Materials/Unwrapped_STraight_Ladder_DefaultMaterial_BaseColor.mat using Guid(dfdce25877adda244b6f8fa72e118348) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c608ee990192fb7cf8ddd8799091575') in 0.004787 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 174.559107 seconds.
+  path: Assets/Anfal/Prefabs/lowpoly_Ladder.fbx
+  artifactKey: Guid(a706ea0897fdc674db604b99d95c6be9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anfal/Prefabs/lowpoly_Ladder.fbx using Guid(a706ea0897fdc674db604b99d95c6be9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26f0ac8f613b9d261b64c4f89e913cc7') in 0.006147 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 665.885933 seconds.
+  path: Assets/Anfal/materials/texture/lantern/Materials/Unwrapped_Lamp_DefaultMaterial_BaseColor.mat
+  artifactKey: Guid(aac833e7835a44d44bdb0e60cb951803) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anfal/materials/texture/lantern/Materials/Unwrapped_Lamp_DefaultMaterial_BaseColor.mat using Guid(aac833e7835a44d44bdb0e60cb951803) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '553fe8c22ff0c623a0adc20af7281b44') in 0.002055 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 75.069987 seconds.
+  path: Assets/Anfal/materials/texture/lantern/Materials/Unwrapped_Lamp_DefaultMaterial_BaseColor.mat
+  artifactKey: Guid(aac833e7835a44d44bdb0e60cb951803) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anfal/materials/texture/lantern/Materials/Unwrapped_Lamp_DefaultMaterial_BaseColor.mat using Guid(aac833e7835a44d44bdb0e60cb951803) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55c0562fc8cc55c458dc8b12920e6ba3') in 0.004605 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 1228.045472 seconds.
+  path: Assets/Anfal/Prefabs/Apartment (Capped) 2.fbx
+  artifactKey: Guid(add14c35ebc6055449bb0258099d6222) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anfal/Prefabs/Apartment (Capped) 2.fbx using Guid(add14c35ebc6055449bb0258099d6222) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28f1521d725c3f97954a71531a077b44') in 0.008972 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 45.614421 seconds.
+  path: Assets/Anfal/materials/texture/ladder/Materials/Unwrapped_STraight_Ladder_DefaultMaterial_BaseColor 1.mat
+  artifactKey: Guid(fa0af77101fba61449639f8b4117ff9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anfal/materials/texture/ladder/Materials/Unwrapped_STraight_Ladder_DefaultMaterial_BaseColor 1.mat using Guid(fa0af77101fba61449639f8b4117ff9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd29f4918f370c8f65a2e96ae5cf50635') in 0.006222 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 142.041134 seconds.
+  path: Assets/Anfal/Prefabs/single_House_Apartment.fbx
+  artifactKey: Guid(3fb330f752232894a896f4a68f066fa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anfal/Prefabs/single_House_Apartment.fbx using Guid(3fb330f752232894a896f4a68f066fa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '787f803a2a3d3f44935f67f5f33d4425') in 0.006118 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 230.155226 seconds.
+  path: Assets/Anfal/materials/texture/pathway/Materials/DefaultMaterial_Base_color 2.mat
+  artifactKey: Guid(4a404259f7d6bbd46a04cd18d3ea8d74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anfal/materials/texture/pathway/Materials/DefaultMaterial_Base_color 2.mat using Guid(4a404259f7d6bbd46a04cd18d3ea8d74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c9dade97de3765b4aec44634d4a2231') in 0.004990 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 14.666023 seconds.
+  path: Assets/Anfal/materials/texture/pathway/Materials/DefaultMaterial_Base_color 2.mat
+  artifactKey: Guid(4a404259f7d6bbd46a04cd18d3ea8d74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anfal/materials/texture/pathway/Materials/DefaultMaterial_Base_color 2.mat using Guid(4a404259f7d6bbd46a04cd18d3ea8d74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '517e068f2184b06ef2d931339fec7a58') in 0.004552 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 207.827475 seconds.
+  path: Assets/Anfal/materials/texture/pathway/Materials/DefaultMaterial_Base_color 3.mat
+  artifactKey: Guid(749c4efc9ef5f3c4997ec8825d63e5bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anfal/materials/texture/pathway/Materials/DefaultMaterial_Base_color 3.mat using Guid(749c4efc9ef5f3c4997ec8825d63e5bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd25208cc67510ad52722a26679adaea6') in 0.005026 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 24.656828 seconds.
+  path: Assets/Anfal/materials/texture/pathway/Materials/DefaultMaterial_Base_color 3.mat
+  artifactKey: Guid(749c4efc9ef5f3c4997ec8825d63e5bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anfal/materials/texture/pathway/Materials/DefaultMaterial_Base_color 3.mat using Guid(749c4efc9ef5f3c4997ec8825d63e5bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61fc9e92fe50254c379ac786fe036b89') in 0.004722 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 2257.571736 seconds.
+  path: Assets/Greyson/PrefabFBX/BikeRack.fbx
+  artifactKey: Guid(0810375f63780de44b10c36a62044cc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Greyson/PrefabFBX/BikeRack.fbx using Guid(0810375f63780de44b10c36a62044cc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60aebd98800d93ac1ecac794c606d126') in 0.020169 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 0.003352 seconds.
+  path: Assets/Greyson/PrefabFBX/Floor.fbx
+  artifactKey: Guid(00614e3c04f176446a2b6f05ccbe4f5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Greyson/PrefabFBX/Floor.fbx using Guid(00614e3c04f176446a2b6f05ccbe4f5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '845793ea356e3c6f666c577c61fd4993') in 0.063804 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 88
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Greyson/PrefabFBX/Wall_Tall.fbx
+  artifactKey: Guid(9c455a90c587b8543ba6a0d2dacf4b7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Greyson/PrefabFBX/Wall_Tall.fbx using Guid(9c455a90c587b8543ba6a0d2dacf4b7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cf4ec4da37d15485e09afed995d1ec5') in 0.006656 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Greyson/PrefabFBX/Fence.fbx
+  artifactKey: Guid(e05f8af08c69b9849bc6df43351e97da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Greyson/PrefabFBX/Fence.fbx using Guid(e05f8af08c69b9849bc6df43351e97da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0af5d4953b82723a0a394b4544708236') in 0.024147 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Greyson/PrefabFBX/Powerbox.fbx
+  artifactKey: Guid(b81da4746b001bb468455cf13ca626d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Greyson/PrefabFBX/Powerbox.fbx using Guid(b81da4746b001bb468455cf13ca626d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a6417ad4504c0bf6e155c6c70a67122') in 0.003550 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Greyson/PrefabFBX/OVerhang.fbx
+  artifactKey: Guid(fab5e43cab9f4b0459891d57259c4185) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Greyson/PrefabFBX/OVerhang.fbx using Guid(fab5e43cab9f4b0459891d57259c4185) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb40b2914645bbc8b3144c8a887ed9cf') in 0.003583 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Greyson/PrefabFBX/Wall_MidBumb.fbx
+  artifactKey: Guid(e80a9e45c3996e44398d9aa643281a16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Greyson/PrefabFBX/Wall_MidBumb.fbx using Guid(e80a9e45c3996e44398d9aa643281a16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2728f8411503da9981f12b903464d467') in 0.003070 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Greyson/PrefabFBX/Button.fbx
+  artifactKey: Guid(84e5b945f76cd0644a9f4596b1e8da37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Greyson/PrefabFBX/Button.fbx using Guid(84e5b945f76cd0644a9f4596b1e8da37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5c0514c43bcba993a306f0b618de069') in 0.003381 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Greyson/PrefabFBX/Wall_MidIndent.fbx
+  artifactKey: Guid(baacaec0e5471dd44b19f6cb37c0e093) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Greyson/PrefabFBX/Wall_MidIndent.fbx using Guid(baacaec0e5471dd44b19f6cb37c0e093) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6b1fa1edb4d0d925d85ca47573e3c3e') in 0.003386 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
 Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
 TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
 AssetImportWorker is now disconnected from the server
