@@ -144,12 +144,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1389920822387469484}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.032684, y: 0.98, z: 0.06974}
-  m_LocalScale: {x: 4.7731967, y: 4.7731967, z: 4.7731967}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.0014601802, y: 1.002261, z: 0.06974}
+  m_LocalScale: {x: 2.796085, y: 2.796085, z: 2.796085}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 2972875870006133156}
+  m_Father: {fileID: 5608169424394939333}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!2083052967 &7777881125806158834
 VisualEffect:
@@ -266,7 +266,6 @@ Transform:
   m_Children:
   - {fileID: 5608169424394939333}
   - {fileID: 1875160856968991667}
-  - {fileID: 7899814484691727303}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &1384936424146412910
@@ -483,6 +482,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: LP_Barrel
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a5ab095f860356243bdff71f56de88a8,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 8265647764814240807, guid: a5ab095f860356243bdff71f56de88a8,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -490,7 +494,11 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 84100220f919fc94b9bb844df1ae7565, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
-    m_AddedGameObjects: []
+    m_AddedGameObjects:
+    - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: a5ab095f860356243bdff71f56de88a8,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7899814484691727303}
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a5ab095f860356243bdff71f56de88a8, type: 3}
 --- !u!4 &5608169424394939333 stripped
