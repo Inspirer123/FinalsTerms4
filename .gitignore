@@ -70,3 +70,131 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+<<<<<<< HEAD
+FinalUnity/Assets/Anfal/Real Stars Skybox/StarSkybox04/CubemapStars.cubemap
+FinalUnity/Library/PackageCache/com.unity.ide.visualstudio@2.0.18/Editor/AppleEventIntegration~/AppleEventIntegration.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+FinalUnity/Library/LastSceneManagerSetup.txt
+FinalUnity/Library/PackageCache/com.unity.ai.navigation@1.1.5/Samples~/Terrains/layer_LightmapWithFog(2048.000,2048.000)(0.000,0.000)(0.000,0.000,0.000),0.000,0.000.terrainlayer.meta
+FinalUnity/Library/PackageCache/com.unity.ide.visualstudio@2.0.18/Editor/AppleEventIntegration~/AppleEventIntegration.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+FinalUnity/Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Samples~/URPPackageSamples/CameraStacking/SplitScreen/SplitScreen/PostProcessingVolume Profile.asset.meta
+FinalUnity/Assets/Real Stars Skybox/StarSkybox04/CubemapStars.cubemap
+FinalUnity/Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Samples~/URPPackageSamples/RendererFeatures/OcclusionEffect/OcclusionEffect/OcclusionEffectSettings.lighting
+FinalUnity/Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Samples~/URPPackageSamples/RendererFeatures/OcclusionEffect/OcclusionEffect/OcclusionEffectSettings.lighting.meta
+FinalUnity/Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Samples~/URPPackageSamples/RendererFeatures/OcclusionEffect/OcclusionEffect/OcclusionEffectSettings.lighting
+FinalUnity/Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Samples~/URPPackageSamples/RendererFeatures/GlitchEffect/GlitchEffect/GlitchLightingSettings.lighting.meta
+FinalUnity/Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Samples~/URPPackageSamples/RendererFeatures/AmbientOcclusion/AmbientOcclusion/LightingSettings.lighting.meta
+FinalUnity/Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Samples~/URPPackageSamples/CameraStacking/SplitScreen/SplitScreen/PostProcessingVolume Profile.asset.meta
+FinalUnity/Library/PackageCache/com.unity.ide.visualstudio@2.0.18/Editor/AppleEventIntegration~/AppleEventIntegration.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+FinalUnity/Library/PackageCache/com.unity.ai.navigation@1.1.5/Samples~/Terrains/layer_LightmapWithFog(2048.000,2048.000)(0.000,0.000)(0.000,0.000,0.000),0.000,0.000.terrainlayer.meta
+FinalUnity/Assets/Real Stars Skybox/StarSkybox04/CubemapStars.cubemap
+FinalUnity/Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Samples~/URPPackageSamples/RendererFeatures/OcclusionEffect/OcclusionEffect/OcclusionEffectSettings.lighting.meta
+FinalUnity/Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Samples~/URPPackageSamples/RendererFeatures/OcclusionEffect/OcclusionEffect/OcclusionEffectSettings.lighting
+FinalUnity/Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Samples~/URPPackageSamples/RendererFeatures/GlitchEffect/GlitchEffect/GlitchLightingSettings.lighting.meta
+FinalUnity/Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Samples~/URPPackageSamples/RendererFeatures/AmbientOcclusion/AmbientOcclusion/LightingSettings.lighting.meta
+FinalUnity/Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Samples~/URPPackageSamples/CameraStacking/SplitScreen/SplitScreen/PostProcessingVolume Profile.asset.meta
+FinalUnity/Library/PackageCache/com.unity.ide.visualstudio@2.0.18/Editor/AppleEventIntegration~/AppleEventIntegration.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+FinalUnity/Library/PackageCache/com.unity.ai.navigation@1.1.5/Samples~/Terrains/layer_LightmapWithFog(2048.000,2048.000)(0.000,0.000)(0.000,0.000,0.000),0.000,0.000.terrainlayer.meta
+FinalUnity/Assets/Real Stars Skybox/StarSkybox04/CubemapStars.cubemap
+FinalUnity/Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Samples~/URPPackageSamples/RendererFeatures/OcclusionEffect/OcclusionEffect/OcclusionEffectSettings.lighting.meta
+FinalUnity/Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Samples~/URPPackageSamples/RendererFeatures/OcclusionEffect/OcclusionEffect/OcclusionEffectSettings.lighting
+FinalUnity/Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Samples~/URPPackageSamples/RendererFeatures/GlitchEffect/GlitchEffect/GlitchLightingSettings.lighting.meta
+FinalUnity/Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Samples~/URPPackageSamples/RendererFeatures/AmbientOcclusion/AmbientOcclusion/LightingSettings.lighting.meta
+FinalUnity/Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Samples~/URPPackageSamples/CameraStacking/SplitScreen/SplitScreen/PostProcessingVolume Profile.asset.meta
+FinalUnity/Library/PackageCache/com.unity.ide.visualstudio@2.0.18/Editor/AppleEventIntegration~/AppleEventIntegration.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+FinalUnity/Library/PackageCache/com.unity.ai.navigation@1.1.5/Samples~/Terrains/layer_LightmapWithFog(2048.000,2048.000)(0.000,0.000)(0.000,0.000,0.000),0.000,0.000.terrainlayer.meta
+FinalUnity/Assets/Real Stars Skybox/StarSkybox04/CubemapStars.cubemap
+FinalUnity/Library/PackageCache/com.unity.ai.navigation@1.1.5/Samples~/Terrains/layer_LightmapWithFog(2048.000,2048.000)(0.000,0.000)(0.000,0.000,0.000),0.000,0.000.terrainlayer.meta
+FinalUnity/Library/PackageCache/com.unity.ide.visualstudio@2.0.18/Editor/AppleEventIntegration~/AppleEventIntegration.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+FinalUnity/Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Samples~/URPPackageSamples/CameraStacking/SplitScreen/SplitScreen/PostProcessingVolume Profile.asset.meta
+FinalUnity/Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Samples~/URPPackageSamples/RendererFeatures/AmbientOcclusion/AmbientOcclusion/LightingSettings.lighting.meta
+FinalUnity/Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Samples~/URPPackageSamples/RendererFeatures/GlitchEffect/GlitchEffect/GlitchLightingSettings.lighting.meta
+FinalUnity/Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Samples~/URPPackageSamples/RendererFeatures/OcclusionEffect/OcclusionEffect/OcclusionEffectSettings.lighting
+FinalUnity/Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Samples~/URPPackageSamples/RendererFeatures/OcclusionEffect/OcclusionEffect/OcclusionEffectSettings.lighting.meta
+FinalUnity/Library/PackageCache/com.unity.ai.navigation@1.1.5/Samples~/Terrains/layer_LightmapWithFog(2048.000,2048.000)(0.000,0.000)(0.000,0.000,0.000),0.000,0.000.terrainlayer.meta
+FinalUnity/Library/PackageCache/com.unity.ide.visualstudio@2.0.18/Editor/AppleEventIntegration~/AppleEventIntegration.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+FinalUnity/Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Samples~/URPPackageSamples/CameraStacking/SplitScreen/SplitScreen/PostProcessingVolume Profile.asset.meta
+FinalUnity/Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Samples~/URPPackageSamples/RendererFeatures/AmbientOcclusion/AmbientOcclusion/LightingSettings.lighting.meta
+FinalUnity/Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Samples~/URPPackageSamples/RendererFeatures/GlitchEffect/GlitchEffect/GlitchLightingSettings.lighting.meta
+FinalUnity/Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Samples~/URPPackageSamples/RendererFeatures/OcclusionEffect/OcclusionEffect/OcclusionEffectSettings.lighting
+FinalUnity/Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Samples~/URPPackageSamples/RendererFeatures/OcclusionEffect/OcclusionEffect/OcclusionEffectSettings.lighting.meta
+FinalUnity/Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Samples~/URPPackageSamples/RendererFeatures/OcclusionEffect/OcclusionEffect/OcclusionEffectSettings.lighting.meta
+FinalUnity/Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Samples~/URPPackageSamples/RendererFeatures/OcclusionEffect/OcclusionEffect/OcclusionEffectSettings.lighting
+FinalUnity/Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Samples~/URPPackageSamples/RendererFeatures/GlitchEffect/GlitchEffect/GlitchLightingSettings.lighting.meta
+FinalUnity/Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Samples~/URPPackageSamples/RendererFeatures/AmbientOcclusion/AmbientOcclusion/LightingSettings.lighting.meta
+FinalUnity/Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Samples~/URPPackageSamples/CameraStacking/SplitScreen/SplitScreen/PostProcessingVolume Profile.asset.meta
+FinalUnity/Library/PackageCache/com.unity.ide.visualstudio@2.0.18/Editor/AppleEventIntegration~/AppleEventIntegration.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+FinalUnity/Library/PackageCache/com.unity.ai.navigation@1.1.5/Samples~/Terrains/layer_LightmapWithFog(2048.000,2048.000)(0.000,0.000)(0.000,0.000,0.000),0.000,0.000.terrainlayer.meta
+FinalUnity/Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Samples~/URPPackageSamples/RendererFeatures/OcclusionEffect/OcclusionEffect/OcclusionEffectSettings.lighting.meta
+FinalUnity/Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Samples~/URPPackageSamples/RendererFeatures/OcclusionEffect/OcclusionEffect/OcclusionEffectSettings.lighting
+FinalUnity/Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Samples~/URPPackageSamples/RendererFeatures/GlitchEffect/GlitchEffect/GlitchLightingSettings.lighting.meta
+FinalUnity/Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Samples~/URPPackageSamples/RendererFeatures/AmbientOcclusion/AmbientOcclusion/LightingSettings.lighting.meta
+FinalUnity/Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Samples~/URPPackageSamples/CameraStacking/SplitScreen/SplitScreen/PostProcessingVolume Profile.asset.meta
+FinalUnity/Library/PackageCache/com.unity.ide.visualstudio@2.0.18/Editor/AppleEventIntegration~/AppleEventIntegration.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+FinalUnity/Library/PackageCache/com.unity.ai.navigation@1.1.5/Samples~/Terrains/layer_LightmapWithFog(2048.000,2048.000)(0.000,0.000)(0.000,0.000,0.000),0.000,0.000.terrainlayer.meta
+FinalUnity/Library/PackageCache/com.unity.ai.navigation@1.1.5/Samples~/Terrains/layer_LightmapWithFog(2048.000,2048.000)(0.000,0.000)(0.000,0.000,0.000),0.000,0.000.terrainlayer.meta
+FinalUnity/Library/PackageCache/com.unity.ide.visualstudio@2.0.18/Editor/AppleEventIntegration~/AppleEventIntegration.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+*.plist
+*.plist
+FinalUnity/Library/PackageCache/com.unity.ide.visualstudio@2.0.18/Editor/AppleEventIntegration~/AppleEventIntegration.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+FinalUnity/Library/PackageCache/com.unity.ai.navigation@1.1.5/Samples~/Terrains/layer_LightmapWithFog(2048.000,2048.000)(0.000,0.000)(0.000,0.000,0.000),0.000,0.000.terrainlayer.meta
+FinalUnity/Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Samples~/URPPackageSamples/RendererFeatures/OcclusionEffect/OcclusionEffect/OcclusionEffectSettings.lighting
+FinalUnity/Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Samples~/URPPackageSamples/RendererFeatures/OcclusionEffect/OcclusionEffect/OcclusionEffectSettings.lighting
+FinalUnity/Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Samples~/URPPackageSamples/RendererFeatures/OcclusionEffect/OcclusionEffect/OcclusionEffectSettings.lighting
+FinalUnity/Library/PackageCache/com.unity.ai.navigation@1.1.5/Samples~/Terrains/layer_LightmapWithFog(2048.000,2048.000)(0.000,0.000)(0.000,0.000,0.000),0.000,0.000.terrainlayer.meta
+*.meta
+FinalUnity/Library/PackageCache/com.unity.ai.navigation@1.1.5/Samples~/Terrains/layer_LightmapWithFog(2048.000,2048.000)(0.000,0.000)(0.000,0.000,0.000),0.000,0.000.terrainlayer.meta
+FinalUnity/Library/PackageCache/com.unity.ai.navigation@1.1.5/Samples~/Terrains/layer_LightmapWithFog(2048.000,2048.000)(0.000,0.000)(0.000,0.000,0.000),0.000,0.000.terrainlayer.meta
+FinalUnity/Library/PackageCache/com.unity.ai.navigation@1.1.5/Samples~/Terrains/layer_LightmapWithFog(2048.000,2048.000)(0.000,0.000)(0.000,0.000,0.000),0.000,0.000.terrainlayer.meta
+*.meta
+*.meta
+FinalUnity/Library/PackageCache/com.unity.ai.navigation@1.1.5/Samples~/Terrains/layer_LightmapWithFog(2048.000,2048.000)(0.000,0.000)(0.000,0.000,0.000),0.000,0.000.terrainlayer.meta
+FinalUnity/Library/PackageCache/com.unity.ai.navigation@1.1.5/Samples~/Terrains/layer_LightmapWithFog(2048.000,2048.000)(0.000,0.000)(0.000,0.000,0.000),0.000,0.000.terrainlayer.meta
+*.meta
+FinalUnity/Library/PackageCache/com.unity.ai.navigation@1.1.5/Samples~/Terrains/layer_LightmapWithFog(2048.000,2048.000)(0.000,0.000)(0.000,0.000,0.000),0.000,0.000.terrainlayer.meta
+FinalUnity/Library/PackageCache/com.unity.ai.navigation@1.1.5/Samples~/Terrains/layer_LightmapWithFog(2048.000,2048.000)(0.000,0.000)(0.000,0.000,0.000),0.000,0.000.terrainlayer.meta
+FinalUnity/Library/PackageCache/com.unity.ai.navigation@1.1.5/Samples~/Terrains/layer_LightmapWithFog(2048.000,2048.000)(0.000,0.000)(0.000,0.000,0.000),0.000,0.000.terrainlayer.meta
+FinalUnity/Library/PackageCache/com.unity.ai.navigation@1.1.5/Samples~/Terrains/layer_LightmapWithFog(2048.000,2048.000)(0.000,0.000)(0.000,0.000,0.000),0.000,0.000.terrainlayer.meta
+FinalUnity/Library/PackageCache/com.unity.ai.navigation@1.1.5/Samples~/Terrains/layer_LightmapWithFog(2048.000,2048.000)(0.000,0.000)(0.000,0.000,0.000),0.000,0.000.terrainlayer.meta
+FinalUnity/Library/PackageCache/com.unity.ai.navigation@1.1.5/Samples~/Terrains/layer_LightmapWithFog(2048.000,2048.000)(0.000,0.000)(0.000,0.000,0.000),0.000,0.000.terrainlayer.meta
+FinalUnity/Library/PackageCache/com.unity.ai.navigation@1.1.5/Samples~/Terrains/layer_LightmapWithFog(2048.000,2048.000)(0.000,0.000)(0.000,0.000,0.000),0.000,0.000.terrainlayer.meta
+FinalUnity/Library/PackageCache/com.unity.ai.navigation@1.1.5/Samples~/Terrains/layer_LightmapWithFog(2048.000,2048.000)(0.000,0.000)(0.000,0.000,0.000),0.000,0.000.terrainlayer.meta
+FinalUnity/Library/PackageCache/com.unity.ai.navigation@1.1.5/Samples~/Terrains/layer_LightmapWithFog(2048.000,2048.000)(0.000,0.000)(0.000,0.000,0.000),0.000,0.000.terrainlayer.meta
+FinalUnity/Library/PackageCache/com.unity.ai.navigation@1.1.5/Samples~/Terrains/layer_LightmapWithFog(2048.000,2048.000)(0.000,0.000)(0.000,0.000,0.000),0.000,0.000.terrainlayer.meta
+FinalUnity/Library/PackageCache/com.unity.ai.navigation@1.1.5/Samples~/Terrains/layer_LightmapWithFog(2048.000,2048.000)(0.000,0.000)(0.000,0.000,0.000),0.000,0.000.terrainlayer.meta
+FinalUnity/Library/PackageCache/com.unity.ai.navigation@1.1.5/Samples~/Terrains/layer_LightmapWithFog(2048.000,2048.000)(0.000,0.000)(0.000,0.000,0.000),0.000,0.000.terrainlayer.meta
+FinalUnity/Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Samples~/URPPackageSamples/RendererFeatures/OcclusionEffect/OcclusionEffect/OcclusionEffectSettings.lighting.meta
+FinalUnity/Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Samples~/URPPackageSamples/RendererFeatures/OcclusionEffect/OcclusionEffect/OcclusionEffectSettings.lighting
+FinalUnity/Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Samples~/URPPackageSamples/RendererFeatures/GlitchEffect/GlitchEffect/GlitchLightingSettings.lighting.meta
+FinalUnity/Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Samples~/URPPackageSamples/RendererFeatures/AmbientOcclusion/AmbientOcclusion/LightingSettings.lighting.meta
+FinalUnity/Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Samples~/URPPackageSamples/CameraStacking/SplitScreen/SplitScreen/PostProcessingVolume Profile.asset.meta
+FinalUnity/Library/PackageCache/com.unity.ide.visualstudio@2.0.18/Editor/AppleEventIntegration~/AppleEventIntegration.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+FinalUnity/Library/PackageCache/com.unity.ai.navigation@1.1.5/Samples~/Terrains/layer_LightmapWithFog(2048.000,2048.000)(0.000,0.000)(0.000,0.000,0.000),0.000,0.000.terrainlayer.meta
+*.plist
+*.lighting
+*.meta
+FinalUnity/Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Samples~/URPPackageSamples/RendererFeatures/OcclusionEffect/OcclusionEffect/OcclusionEffectSettings.lighting.meta
+FinalUnity/Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Samples~/URPPackageSamples/RendererFeatures/OcclusionEffect/OcclusionEffect/OcclusionEffectSettings.lighting
+FinalUnity/Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Samples~/URPPackageSamples/RendererFeatures/GlitchEffect/GlitchEffect/GlitchLightingSettings.lighting.meta
+FinalUnity/Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Samples~/URPPackageSamples/RendererFeatures/AmbientOcclusion/AmbientOcclusion/LightingSettings.lighting.meta
+FinalUnity/Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Samples~/URPPackageSamples/CameraStacking/SplitScreen/SplitScreen/PostProcessingVolume Profile.asset.meta
+FinalUnity/Library/PackageCache/com.unity.ide.visualstudio@2.0.18/Editor/AppleEventIntegration~/AppleEventIntegration.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+FinalUnity/Library/PackageCache/com.unity.ai.navigation@1.1.5/Samples~/Terrains/layer_LightmapWithFog(2048.000,2048.000)(0.000,0.000)(0.000,0.000,0.000),0.000,0.000.terrainlayer.meta
+FinalUnity/Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Samples~/URPPackageSamples/RendererFeatures/OcclusionEffect/OcclusionEffect/OcclusionEffectSettings.lighting.meta
+FinalUnity/Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Samples~/URPPackageSamples/RendererFeatures/OcclusionEffect/OcclusionEffect/OcclusionEffectSettings.lighting
+FinalUnity/Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Samples~/URPPackageSamples/RendererFeatures/GlitchEffect/GlitchEffect/GlitchLightingSettings.lighting.meta
+FinalUnity/Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Samples~/URPPackageSamples/RendererFeatures/AmbientOcclusion/AmbientOcclusion/LightingSettings.lighting.meta
+FinalUnity/Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Samples~/URPPackageSamples/CameraStacking/SplitScreen/SplitScreen/PostProcessingVolume Profile.asset.meta
+FinalUnity/Library/PackageCache/com.unity.ide.visualstudio@2.0.18/Editor/AppleEventIntegration~/AppleEventIntegration.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+FinalUnity/Library/PackageCache/com.unity.ai.navigation@1.1.5/Samples~/Terrains/layer_LightmapWithFog(2048.000,2048.000)(0.000,0.000)(0.000,0.000,0.000),0.000,0.000.terrainlayer.meta
+*.meta
+*.lighting
+*.plist
+FinalUnity/Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Samples~/URPPackageSamples/RendererFeatures/OcclusionEffect/OcclusionEffect/OcclusionEffectSettings.lighting.meta
+FinalUnity/Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Samples~/URPPackageSamples/RendererFeatures/OcclusionEffect/OcclusionEffect/OcclusionEffectSettings.lighting
+FinalUnity/Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Samples~/URPPackageSamples/RendererFeatures/GlitchEffect/GlitchEffect/GlitchLightingSettings.lighting.meta
+FinalUnity/Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Samples~/URPPackageSamples/RendererFeatures/AmbientOcclusion/AmbientOcclusion/LightingSettings.lighting.meta
+FinalUnity/Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Samples~/URPPackageSamples/CameraStacking/SplitScreen/SplitScreen/PostProcessingVolume Profile.asset.meta
+FinalUnity/Library/PackageCache/com.unity.ide.visualstudio@2.0.18/Editor/AppleEventIntegration~/AppleEventIntegration.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+FinalUnity/Library/PackageCache/com.unity.ai.navigation@1.1.5/Samples~/Terrains/layer_LightmapWithFog(2048.000,2048.000)(0.000,0.000)(0.000,0.000,0.000),0.000,0.000.terrainlayer.meta
+=======
+>>>>>>> 33cd48efae0b4a83351c3bf024a8286ccfaadb23

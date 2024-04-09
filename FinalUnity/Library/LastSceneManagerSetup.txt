@@ -1,5 +1,0 @@
-sceneSetups:
-- path: Assets/Greyson/Scenes/Gower_Greyson_Scene.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
