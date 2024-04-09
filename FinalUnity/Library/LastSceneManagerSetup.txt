@@ -1,9 +1,5 @@
 sceneSetups:
-<<<<<<< Updated upstream
 - path: Assets/Scenes/KyleLevel.unity
-=======
-- path: Assets/KF/KF_mainmenu/KF_MainMenu.unity
->>>>>>> Stashed changes
   isLoaded: 1
   isActive: 1
   isSubScene: 0
