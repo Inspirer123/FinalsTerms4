@@ -1,5 +1,9 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Scenes/AnthonyLevel.unity
+=======
+- path: Assets/Greyson/Scenes/Gower_Greyson_Scene.unity
+>>>>>>> 33cd48efae0b4a83351c3bf024a8286ccfaadb23
   isLoaded: 1
   isActive: 1
   isSubScene: 0
