@@ -7,7 +7,7 @@ VisualEffectResource:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: FloatingBall
-  m_Graph: {fileID: 8926484042661615116}
+  m_Graph: {fileID: 8926484042661615142}
   m_Infos:
     m_RendererSettings:
       motionVectorGenerationMode: 0
@@ -22,7 +22,7 @@ VisualEffectResource:
     m_InitialEventName: OnPlay
     m_InstancingMode: 0
     m_InstancingCapacity: 64
---- !u!114 &8926484042661615116
+--- !u!114 &8926484042661615142
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}

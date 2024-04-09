@@ -7,7 +7,7 @@ VisualEffectResource:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Explosion
-  m_Graph: {fileID: 8926484042661614857}
+  m_Graph: {fileID: 8926484042661614870}
   m_Infos:
     m_RendererSettings:
       motionVectorGenerationMode: 0
@@ -22,7 +22,7 @@ VisualEffectResource:
     m_InitialEventName: OnPlay
     m_InstancingMode: 0
     m_InstancingCapacity: 64
---- !u!114 &8926484042661614857
+--- !u!114 &8926484042661614870
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
